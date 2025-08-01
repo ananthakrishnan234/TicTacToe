@@ -16,7 +16,7 @@ Java
 IntelliJ IDEA 
 Command Line (Terminal)
 
-## How to Run 🔧
+## How to Run 
 
 Clone the repository using:  
 `git clone https:/ananthakrishnan234/github.com//TicTacToe-Game.git`  
