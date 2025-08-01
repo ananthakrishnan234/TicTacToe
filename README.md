@@ -35,7 +35,7 @@ TicTacToe-Game/
 └── README.md      # Project description and instructions
 
 
-## Author 👨‍💻
+## Author 
 
 [Ananthakrishnan Sudhakaran](https://github.com/ananthakrishnan234)
 
